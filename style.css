@@ -1,0 +1,18 @@
+.form-heading{
+    display: flex;
+    font-size: 12px;
+    margin-left: 10px;
+    margin: auto;
+    padding-left: 10px;
+    background-color: burlywood;
+    align-self: start;
+}
+body{
+    background-image: url(./images/Aeroplane_take-off.jpg.820x520_q95_crop-smart.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+}
+button{
+    background-color: rgba(000, 022, 555, 022);
+}
